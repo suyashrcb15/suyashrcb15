@@ -90,6 +90,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suyashrcb15/suyashrcb15/output/snake.svg" alt="Snake animation" />
-
-###
